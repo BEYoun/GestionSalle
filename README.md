@@ -3,6 +3,8 @@
 Une application de gestion des salle.
 (VUEJS, protocole REST, nodeJS)
 
+![Screenshot](captureProjetGestionSalle/login.png)
+
 ## Project setup
 
 ```
