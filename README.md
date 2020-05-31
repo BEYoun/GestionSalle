@@ -5,7 +5,7 @@ Une application de gestion des salle.
 Login :
 ![Screenshot](captureProjetGestionSalle/login.png)
 Salle :
-![Screenshot](captureProjetGestionSalle/login.png)
+![Screenshot](captureProjetGestionSalle/view.png)
 
 ## Project setup
 
